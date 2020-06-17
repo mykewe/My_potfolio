@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Potfolio on Michael Ewetola</title>
+    <link>https://mykewe.github.io/My_potfolio/</link>
+    <description>Recent content in Data Science Potfolio on Michael Ewetola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://mykewe.github.io/My_potfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Linear regression from scratch</title>
+      <link>https://mykewe.github.io/My_potfolio/post/project-1/</link>
+      <pubDate>Tue, 16 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://mykewe.github.io/My_potfolio/post/project-1/</guid>
+      <description>Built linear regression model from scratch without using the popular python library, sklearn. This gives more insight into how the model works.
+ Started with simple linear model with one independent variable or feature. Then extended to multiple features, here an error function is constructed which is optimized using the gradient descent method Lastly, a polynomial regression model is built.     Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project II: Best neighborhoods in Toronto to start a restaurant</title>
+      <link>https://mykewe.github.io/My_potfolio/post/project-2/</link>
+      <pubDate>Tue, 16 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://mykewe.github.io/My_potfolio/post/project-2/</guid>
+      <description>The best neighborhoods to open a restaurant in Toronto was determined by grouping the restaurants into clusters using the Kmeans clustering, each clusters were then examined to see which has few restaurants. This would be a good place to build a restaurant since there would be less competition there.
+Data sources
+Based on definition of our problem, factors that will influence our decision are:
+ Neighborhoods in Toronto, number of existing restaurants in the neighborhood, location existing restaurants in the neighborhood.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mykewe.github.io/My_potfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mykewe.github.io/My_potfolio/contact/</guid>
+      <description>Follow me on these social media platforms
+linkedin
+Github</description>
+    </item>
+    
+  </channel>
+</rss>

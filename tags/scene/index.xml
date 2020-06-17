@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Michael Ewetola</title>
+    <link>https://mykewe.github.io/My_potfolio/tags/scene/</link>
+    <description>Recent content in scene on Michael Ewetola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://mykewe.github.io/My_potfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Linear regression from scratch</title>
+      <link>https://mykewe.github.io/My_potfolio/post/project-1/</link>
+      <pubDate>Tue, 16 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://mykewe.github.io/My_potfolio/post/project-1/</guid>
+      <description>Built linear regression model from scratch without using the popular python library, sklearn. This gives more insight into how the model works.
+ Started with simple linear model with one independent variable or feature. Then extended to multiple features, here an error function is constructed which is optimized using the gradient descent method Lastly, a polynomial regression model is built.     Link to Github repository</description>
+    </item>
+    
+  </channel>
+</rss>
